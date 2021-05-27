@@ -1,0 +1,6 @@
+{
+    "pack": {
+        "pack_format": 7,
+        "description": "Finds the entity that a player is looking at."
+    }
+}
